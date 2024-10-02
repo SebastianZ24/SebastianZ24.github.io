@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LASTtRY</title>
+    <link>https://SebastianZ24.github.io/</link>
+    <description>Recent content on LASTtRY</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 01:06:50 +0300</lastBuildDate>
+    <atom:link href="https://SebastianZ24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>testasSuNuotrauka</title>
+      <link>https://SebastianZ24.github.io/posts/photopost/</link>
+      <pubDate>Thu, 03 Oct 2024 01:06:50 +0300</pubDate>
+      <guid>https://SebastianZ24.github.io/posts/photopost/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://SebastianZ24.github.io/images/1.jpg&#34; alt=&#34;image&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;https://SebastianZ24.github.io/images/2.jpg&#34; alt=&#34;image&#34;  /&gt;
+
+cout &amp;laquo; &amp;ldquo;Hello world! &amp;quot; &amp;laquo; endl;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testinamea</title>
+      <link>https://SebastianZ24.github.io/posts/testinamea/</link>
+      <pubDate>Thu, 03 Oct 2024 01:03:24 +0300</pubDate>
+      <guid>https://SebastianZ24.github.io/posts/testinamea/</guid>
+      <description>&lt;p&gt;TEstas be nuotraukos&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
