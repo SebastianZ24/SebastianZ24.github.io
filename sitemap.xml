@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SebastianZ24.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-03T01:06:50+03:00</lastmod>
   </url><url>
-    <loc>https://SebastianZ24.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-03T01:06:50+03:00</lastmod>
   </url><url>
-    <loc>https://SebastianZ24.github.io/posts/photopost/</loc>
+    <loc>http://localhost:1313/posts/photopost/</loc>
     <lastmod>2024-10-03T01:06:50+03:00</lastmod>
   </url><url>
-    <loc>https://SebastianZ24.github.io/posts/testinamea/</loc>
+    <loc>http://localhost:1313/posts/testinamea/</loc>
     <lastmod>2024-10-03T01:03:24+03:00</lastmod>
   </url><url>
-    <loc>https://SebastianZ24.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://SebastianZ24.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
